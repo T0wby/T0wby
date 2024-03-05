@@ -1,16 +1,26 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-<!--
-**T0wby/T0wby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tobias Nühlen, and I'm a passionate software developer focusing C#, C++.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Studying Games Programming at SAE Cologne
+- 💻 Currently searching for a job as a junior C#/game developer
+- 🌱 Always eager to learn new technologies and tackle challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📧 Email: tobiasnuehlen@gmx.de
+- 🐦 Twitter: [twitter.com/notTowby](https://twitter.com/notTowby)
+- 💼 LinkedIn: [linkedin.com/in/tobias-nuehlen](https://www.linkedin.com/in/tobias-nuehlen/)
+
+## Skills and Technologies
+- Languages: C#, C++
+- Frameworks: Unity3D, Unreal Engine, Vulkan, OpenGL, WPF
+- Databases: MySQL, PostgreSQL
+- Tools: Git, Visual Studio, Rider
+
+## Portfolio
+- [My Portfolio Website](https://t0wby.github.io/T0wby-Portfolio/) - A personal website to showcase my projects and skills.
+
+## Activities
+- Recently worked on [Oculus MR Prototype](https://github.com/T0wby/SAE_Bachelor_MixedRealityShooter)
+- Recently worked on [Vulkan Engine Prototype](https://github.com/T0wby/SAE_ASP_Vulkan)
