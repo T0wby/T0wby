@@ -3,8 +3,8 @@
 My name is Tobias Nühlen, and I'm a passionate software developer focusing C#, C++.
 
 ## About Me
-- 🎓 Studying Games Programming at SAE Cologne
-- 💻 Currently searching for a job as a junior C#/game developer
+- 🎓 B.Sc in Games Programming at SAE Cologne
+- 💻 Junior C# developer
 - 🌱 Always eager to learn new technologies and tackle challenges
 
 ## Contact
