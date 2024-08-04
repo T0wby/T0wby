@@ -22,5 +22,5 @@ My name is Tobias Nühlen, and I'm a passionate software developer focusing C#, 
 - [My Portfolio Website](https://t0wby.github.io/T0wby-Portfolio/) - A personal website to showcase my projects and skills.
 
 ## Activities
-- Recently worked on [Oculus MR Prototype](https://github.com/T0wby/SAE_Bachelor_MixedRealityShooter)
-- Recently worked on [Vulkan Engine Prototype](https://github.com/T0wby/SAE_ASP_Vulkan)
+- Recently worked on [Oculus MR Prototype](https://github.com/T0wby/SAE_MixedRealityProject)
+- Recently worked on [Vulkan Engine Prototype](https://github.com/T0wby/SAE_Vulkan_Project)
